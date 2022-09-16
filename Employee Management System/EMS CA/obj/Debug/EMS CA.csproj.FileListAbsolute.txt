@@ -1,0 +1,11 @@
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\bin\Debug\EMS CA.exe.config
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\bin\Debug\EMS CA.exe
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\bin\Debug\EMS CA.pdb
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\bin\Debug\LitwareLib.dll
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\bin\Debug\LitwareLib.pdb
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.csproj.AssemblyReference.cache
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.csproj.CoreCompileInputs.cache
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.csproj.CopyComplete
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.exe
+C:\Users\Suvam\Downloads\EMS\Employee Management System\EMS CA\obj\Debug\EMS CA.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitwareLib", "LitwareLib\LitwareLib.csproj", "{91DCCCEE-A7E1-4220-9B83-D1FAD0DDDF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS CA", "EMS CA\EMS CA.csproj", "{E5CF315E-A782-4E2A-9CF6-36F0FCB2D016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DCCCEE-A7E1-4220-9B83-D1FAD0DDDF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DCCCEE-A7E1-4220-9B83-D1FAD0DDDF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DCCCEE-A7E1-4220-9B83-D1FAD0DDDF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DCCCEE-A7E1-4220-9B83-D1FAD0DDDF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CF315E-A782-4E2A-9CF6-36F0FCB2D016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CF315E-A782-4E2A-9CF6-36F0FCB2D016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CF315E-A782-4E2A-9CF6-36F0FCB2D016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CF315E-A782-4E2A-9CF6-36F0FCB2D016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59339EF4-A169-4694-ABBC-1D5E2E5ABE18}
+	EndGlobalSection
+EndGlobal
